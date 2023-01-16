@@ -6,6 +6,6 @@ I am a CSE undergraduate student at North South University. My major in CSE on A
 
 
 🌱 Currently I am learning Machine Learning with Python
- 🔭 Currently I am working on Android App Development.
- 😀 My apps are published in Google Play Store.
- ⚡ I like coding,reading books,watching football.
+🔭 Currently I am working on Android App Development.
+😀 My apps are published in Google Play Store.
+⚡ I like coding,reading books,watching football.
